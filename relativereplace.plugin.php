@@ -1,5 +1,5 @@
 <?php
-
+namespace Habari;
 class RelativeReplacePlugin extends Plugin
 {
 	public function replace_macro($match)
